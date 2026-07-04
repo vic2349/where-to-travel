@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行目的地决策"
+  short_description: "根据条件和旅行理由选择目的地"
+  default_prompt: "使用 $where-to-travel 帮我根据条件和兴趣判断最适合去哪里旅行。"
